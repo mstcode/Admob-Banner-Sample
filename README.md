@@ -2,7 +2,7 @@
 
 Source code on adding Admob Banner in Swift 2. Using Xcode 7.1
 
-Tutorial: Coming soon
+Tutorial: https://www.youtube.com/watch?v=tJi-vQ9e-HI
 
 Check out our Website: http://www.mstcode.com
 
